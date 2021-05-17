@@ -2,20 +2,19 @@
 title: >-
   Treasury International Capital (TIC) - U.S. Transactions with Foreign
   Residents in Long Term Securities - Net purchases of Foreign long term
-  securities (Monthly)
-created: '2020-11-10T16:53:42.343742'
-modified: '2020-11-10T16:53:42.343753'
+  securities (Quarterly)
+created: '2020-11-10T16:53:42.394379'
+modified: '2020-11-10T16:53:42.394389'
 state: active
 type: dataset
 tags:
-  - Asset Backed Securities
   - Foreign Bonds
   - Foreign Long Term Securities
   - Foreign Stocks
-  - Us Resident Purchases Of Securities
+  - Us Resident Purchases Of Foreign Securities
 groups: []
 csv_url: >-
-  https://www.treasury.gov/resource-center/data-chart-center/tic/Documents/snetfor.csv
+  https://www.treasury.gov/resource-center/data-chart-center/tic/Documents/snetforq.csv
 json_url: ''
 layout: post
 
